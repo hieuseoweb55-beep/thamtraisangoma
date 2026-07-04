@@ -1,0 +1,38 @@
+{
+  "thảm tấm": {
+    "Sapphire": ["C01", "C02", "C05", "C09", "C10", "C11"],
+    "Melody C": ["C1", "C2", "C3", "C4", "C5", "C6"],
+    "Melody X": ["X01", "X02", "X05", "X09"],
+    "Melody DK": ["DK01", "DK02", "DK03", "DK04"],
+    "Melody FOREST": ["FOREST01", "FOREST02", "FOREST03", "FOREST04", "FOREST05"],
+    "Shining AL": ["AL01", "AL02", "AL03", "AL04", "AL05"],
+    "Shining KN": ["KN01", "KN02", "KN03", "KN04", "KN05", "KN06"]
+  },
+  "thảm cuộn": {
+    "Rainbow C": ["C101", "C201", "C102", "C202", "C103", "C203", "C104", "C204", "C105", "C205", "C106", "C206", "C207"],
+    "Rainbow 866": ["866-01", "866-02", "866-03", "866-04", "866-05", "866-09"],
+    "Rainbow PT": ["PT03", "PT04", "PT05", "PT06", "PT08"],
+    "Manila": ["Sunset1908A6", "Sunset1885A", "Sunset1873", "Sunset1830D6", "Sea1984A", "Sea1981A1", "Sea1961A8", "Sea1959", "M1984A2", "M1983A2", "M1980A2", "M1975A3"],
+    "ThaiSilk Line": ["SHR01", "SHR02", "SHR03", "SHR04"],
+    "Diamond": ["D01", "D05", "D06", "D07", "D08", "D09", "D10", "D12", "D14", "D15", "D16", "D17", "D18"],
+    "Sky QD": ["QD26", "QD36", "QD50", "QD55"],
+    "Sky BG": ["BG26", "BG36", "BG50", "BG55"],
+    "Sky CL": ["CLP2043A", "CLP2043B", "CLP602A", "CLP603A"],
+    "Sky JZ": ["JZ26", "JZ36", "JZ50", "JZ55"],
+    "Sky T": ["T22", "T32", "T52", "T62"],
+    "Wilton": ["RP669R", "RP07805B", "VG6425BE", "VG5425R", "RP9498M", "RP1769R", "RP00548M"]
+  },
+  "thảm mỹ thuật": {
+    "Thảm mỹ thuật 01": ["MS17", "MS13", "MS11", "MS10", "MS07", "SN19", "SN09", "SN05", "SN03", "SN01", "LY20", "LY10", "LY07", "LY02"],
+    "Thảm mỹ thuật 02": ["J3422", "L2707IV", "H3113", "E6781", "H3533BE", "L2051Y"],
+    "Thảm mỹ thuật 03": ["E2203", "E2244IV", "EB3687BE", "E7718IV", "E7293MS", "E7290MS"],
+    "Thảm mỹ thuật 04": ["N9304BE", "H3293", "H3493C", "N8704IV", "O1915CY", "N2330RO"]
+  },
+  "phụ kiện thảm": {
+    "Phụ kiện": ["Underlay 5mm", "Underlay 8mm", "Underlay 10mm", "Kích thảm", "Con lăn thảm 15cm", "Lưỡi Răng Kích Thảm", "Bàn là băng keo", "Băng keo", "Nẹp đinh"]
+  },
+  "quy_tac_tim_kiem": {
+    "mo_rong_ma": "Nếu không tìm thấy mã chính xác, hãy thử xóa dấu gạch ngang (-), xóa khoảng trắng, hoặc thêm dấu gạch ngang giữa phần chữ và phần số.",
+    "vi_du": "DK-01 hiểu là DK01, PT 03 hiểu là PT03, 86603 hiểu là 866-03"
+  }
+}
